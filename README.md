@@ -1,1 +1,1 @@
-# [decc00n.tk](https://www.decc00n.tk)
+# [decca.tk](https://www.decca.tk)
