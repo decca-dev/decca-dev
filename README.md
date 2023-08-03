@@ -8,4 +8,4 @@ What I use in most of my projects:
 
 [![](https://skillicons.dev/icons?i=js,ts,lua,html,css,electron,express,figma,git,mongodb,nextjs,nodejs,react,tailwind,vercel,vite,vscode)](https://skillicons.dev)
 
-## Main website: **https://decc00n.vercel.app**
+
