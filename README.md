@@ -1,6 +1,6 @@
 # **decc00n**
 
-Hi my name is decc00n, you can also call me decca! I am a full stack developer and I'm interested in networking and systems programming.
+I kinda suck at this ngl
 
 # Tools
 
