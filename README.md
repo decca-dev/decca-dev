@@ -6,6 +6,6 @@ Hi my name is decc00n, you can also call me decca! I am a full stack developer a
 
 What I use in most of my projects:
 
-[![](https://skillicons.dev/icons?i=js,ts,lua,html,css,electron,express,figma,git,mongodb,nextjs,nodejs,react,tailwind,vercel,vite,vscode)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=js,ts,lua,html,css,electron,express,figma,git,mongodb,nextjs,nodejs,react,tailwind,vercel,vite,vscode,c)](https://skillicons.dev)
 
 
