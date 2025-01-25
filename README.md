@@ -1,5 +1,3 @@
-# **decc00n**
-
 I kinda suck at this ngl
 
 # Tools
